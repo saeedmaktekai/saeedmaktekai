@@ -4,13 +4,13 @@
  
  
 
-- 🔭 I'm currently working on a product for a company based in Canada [K chat Ai bot ( demo link )](https://optimalaccess.com/kbucket/marketing-channel/content-marketing/?)
+- 🔭 I'm currently working on a product for a company based in Canada [K chat Ai bot ( demo link )](https://kchat.website/auth/signin)
 
 - 🌱 I’m currently doing **find gaps and fill it with Ai **
 
 - 🤝 I’m looking for help with **on business opportunities worldwide. My team and I are eager to explore new prospects in AI.**
 
-- 👨‍💻 All of my projects are available at [maktek.ai](maktek.ai)
+- 👨‍💻 All of my projects are available at [maktek.ai](https://maktek.ai)
 
 - 💬 Ask me about **Ai NLP**
 
